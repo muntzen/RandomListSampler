@@ -1,6 +1,4 @@
 
 .apikey*
 randomsampler
-*.exe
-*-amd64
 .DS_Store
