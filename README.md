@@ -6,7 +6,7 @@ Connects to Mailchimp account and tags a random sample of emails on it.
 
 This is a command-line tool. Go to the binaries directory and download the right one for your architecture...
 
-- Windows: for 64-bit (most standard machines)  <binaries/randomsampler-amd64.exe> or if on a 32-bit processor <binaries/randomsampler-windows-386.exe>
+- Windows: for 64-bit (most standard machines)  [windows 64-bit exe](binaries/randomsampler-amd64.exe) or if on a 32-bit processor <binaries/randomsampler-windows-386.exe>
 - Mac: for 64-bit arch, this should work <binaries/randomsampler-darwin-amd64>
 
 Email me at [eric at gmail dot com] if you need an executable that isn't here arleady and you don't have the tools to build one
