@@ -9,7 +9,7 @@ This is a command-line tool. Go to the binaries directory and download the right
 - Windows: for 64-bit (most standard machines)  [windows 64-bit exe](binaries/randomsampler-amd64.exe) or if on a 32-bit processor [windows 32-bit exe](binaries/randomsampler-windows-386.exe)
 - Mac: for 64-bit arch, this should work [mac 64-bit](binaries/randomsampler-darwin-amd64)
 
-Email me at [eric at gmail dot com] if you need an executable that isn't here arleady and you don't have the tools to build one
+Email me at [ericmuntz at gmail dot com] if you need an executable that isn't here arleady and you don't have the tools to build one
 
 ### Running ###
 
